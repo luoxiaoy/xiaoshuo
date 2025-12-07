@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Novel Architect",
+  "description": "A professional AI-assisted novel writing platform powered by Gemini 3 Pro. Features outline generation, chapter planning, context-aware writing, and local file export.",
+  "requestFramePermissions": []
+}
